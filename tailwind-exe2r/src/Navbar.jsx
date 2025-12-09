@@ -15,7 +15,7 @@ function Navbar(){
 
            <a href="#" className="">THE BOOK</a>
            <a href="#" className="">VLOG</a>
-           <a href="#" className=""><img src="/search.svg" /></a>
+           <a href="#" className=""><img src="/search.svg" class="invert" /></a>
 
            </div>
            
