@@ -31,7 +31,6 @@ function Herosection(){
                 <p className="font-bold text-white text-center">Singapore On A Budget: 7 Tips for Staying Under $60 Per Day</p>
 
             </div>
-        
         </div>
         </>
     )

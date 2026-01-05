@@ -1,7 +1,7 @@
 import './App.css'
 import Navbar from './Navbar'
 import Herosection from './Herosection'
-import Cards from './Cards'
+import Contact from './Contact'
 
 
 
@@ -11,7 +11,7 @@ function App() {
     <>
      <Navbar/> 
      <Herosection/>
-     <Cards/>
+     <Contact/>
     </>
   )
 }
